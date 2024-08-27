@@ -6,7 +6,7 @@ package Matematika;
 
 /**
  *
- * @author Azzam Wildan
+ * @author Azzam Wildan Shidqii Al-Afghani NIM 09040623054
  */
 public class MatematikaBeraksi {
     public static void main(String[] args) {
